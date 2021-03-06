@@ -1,3 +1,7 @@
+## [1.0.3] - [March 6, 2021]
+### Features
+- Added nullsafety initial compatibility
+
 ## [1.0.2] - [April 13, 2020]
 ### Features
 - Addressed issue #71, #103 - Added an optional `header` widget that floats above the `panel` and attaches to the top
